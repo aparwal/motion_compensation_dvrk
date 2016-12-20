@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -std=c++11   -shared -Wl,-soname,libanimate_pose.so -o libanimate_pose.so CMakeFiles/animate_pose.dir/animate_pose.cc.o  -L/usr/lib/x86_64-linux-gnu/gazebo-7/plugins 
